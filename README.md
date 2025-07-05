@@ -5,19 +5,46 @@
 </p>
 
 <p align="center">
-  🧠 I'm an Embedded Systems & Data Science enthusiast passionate about building real-world projects in C, Python, and Java.  
-  I love exploring data, automating processes, and simplifying code for others.
+  📊 I'm a Data Analyst & Embedded Systems enthusiast passionate about transforming data into real insights  
+  and building tech tools with C, Python, and Java.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 Data Analysis
 
-- 🔌 Working on Embedded Systems using Arduino, Sensors, and Microcontrollers  
-- 📊 Analyzing Data using Python (Pandas, NumPy) and Power BI  
-- 💡 Creating simple tools & utilities with Python  
-- 🌐 Building static websites using HTML & CSS  
-- 🎯 Always learning & contributing on GitHub
+- 💡 Extracting insights from real datasets using **Pandas**, **NumPy**, **Matplotlib**, and **Power BI**
+- 🧹 Cleaning, filtering, and visualizing structured data
+- 📈 Interactive dashboards and business reports
+- 📁 Projects: Sales Dashboard, COVID Stats, File Organizer
+
+---
+
+## 🧠 Data Science
+
+- 🧠 Building and training Machine Learning models using **Scikit-learn**
+- 🧪 Projects in Classification, Regression, and Clustering
+- 🔍 Feature engineering and model evaluation (accuracy, precision, recall)
+- 🧼 Data preprocessing, missing values handling, encoding, and scaling
+- 🤖 Applying algorithms like Decision Trees, KNN, Logistic Regression
+- 📁 Example Projects: Loan Predictor, Iris Classification, Spam Detector
+
+---
+
+## 🔌 Embedded Systems
+
+- 🛠️ Working with Arduino, sensors (DHT11, IR, Ultrasonic), actuators
+- 📡 Projects: Smart home alarms, temperature control systems, RFID access
+- 🧰 Tools: Arduino IDE, Proteus, Tinkercad, Serial Monitor
+
+---
+
+## 💻 Programming & Web Development
+
+- 🟡 C for system-level tasks & microcontroller logic
+- 🐍 Python for automation, scripting, and data projects
+- ☕ Java for OOP and console applications
+- 🌐 HTML & CSS for static websites
 
 ---
 
@@ -31,13 +58,14 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mozoma&show_icons=true&theme=radical" width="48%"/>
