@@ -5,9 +5,21 @@
 </p>
 
 <p align="center">
-  📊 I'm a Data Analyst & Embedded Systems enthusiast passionate about transforming data into real insights  
-  and building tech tools with C, Python, and Java.
+  🧠 I'm a Data Analyst & Data Science enthusiast passionate about exploring real-world datasets using tools like Python, Pandas, Power BI, and Scikit-learn.  
+  I enjoy uncovering insights from data, building ML models, and simplifying technical concepts — with additional experience in Embedded Systems and programming with C, Java, and HTML/CSS.
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+📊 Analyzing data using **Python (Pandas, NumPy)** and **Power BI**  
+🧠 Building Machine Learning models using **Scikit-learn**  
+📈 Creating dashboards and insights to support business decisions  
+🔌 Working on Embedded Systems using **Arduino**, **Sensors**, and **Microcontrollers**  
+💡 Creating simple tools & utilities with Python  
+🌐 Building static websites using **HTML & CSS**  
+🎯 Always learning & contributing on GitHub
 
 ---
 
