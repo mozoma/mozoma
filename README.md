@@ -90,8 +90,15 @@
 
 <p align="center">
   <a href="https://github.com/mozoma"><img src="https://img.shields.io/badge/GitHub-mozoma-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:mohamedhazem@email.com"><img src="https://img.shields.io/badge/Email-mohamedhazem@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamedhazem-dev"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamed-hazem-salem-9b980b365"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zoma72m"><img src="https://img.shields.io/badge/Instagram-zoma72m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.snapchat.com/add/zoma7216"><img src="https://img.shields.io/badge/Snapchat-zoma7216-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
+  <a href="https://www.threads.net/@zoma72m"><img src="https://img.shields.io/badge/Threads-zoma72m-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://facebook.com/zoma72m?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-zoma72m-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  📱 WhatsApp: +20 111 828 4165 | +20 102 657 0711
 </p>
 
 ---
