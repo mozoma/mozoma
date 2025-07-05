@@ -96,6 +96,11 @@
   <a href="https://www.threads.net/@zoma72m"><img src="https://img.shields.io/badge/Threads-zoma72m-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://facebook.com/zoma72m?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-zoma72m-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+## 🧪 Kaggle Profile
+
+<p align="center">
+  <a href="https://www.kaggle.com/zoma72"><img src="https://img.shields.io/badge/Kaggle-zoma72-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
 <p align="center">
   📱 WhatsApp: +20 111 828 4165 | +20 102 657 0711
